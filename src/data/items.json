@@ -1,0 +1,161 @@
+[{
+        "id": 1,
+        "title": "Gray chair",
+        "img": "https://i5.walmartimages.com/asr/47b95178-8610-499c-9ef5-16c808e0b1a5.959959a7a1a195d1eafd12636171b027.jpeg",
+        "desc": "Comfortable gray chair with modern design, perfect for any interior.",
+        "category": "chairs",
+        "price": "49.99"
+    },
+    {
+        "id": 2,
+        "title": "Table",
+        "img": "https://www.casawoodz.com/uploads/shop/3OE42YvJrn.jpg",
+        "desc": "Elegant wooden table with a sturdy build, great for dining or work.",
+        "category": "chairs",
+        "price": "149.99"
+    },
+    {
+        "id": 3,
+        "title": "White armchair",
+        "img": "https://www.gotinyspace.com/wp-content/uploads/2023/10/MoNiBloom-White-Modern-Armchair-943x1024.jpg",
+        "desc": "Stylish and comfortable armchair for your living room.",
+        "category": "chairs",
+        "price": "89.99"
+    },
+    {
+        "id": 4,
+        "title": "Modern desk",
+        "img": "https://i5.walmartimages.com/asr/9a402fe0-5dd1-4918-a8fc-8675a1f0b10e.53ba71942ece5a4cb3cc066f4222c0e5.jpeg",
+        "desc": "Perfect for work or study, with minimalistic design.",
+        "category": "tables",
+        "price": "199.99"
+    },
+    {
+        "id": 5,
+        "title": "Classic rocking chair",
+        "img": "https://themprojects.com/wp-content/uploads/2018/09/belham-living-windsor-indoor-wood-rocking-chair-espresso-hayneedle-with-rocking-chairs-for-adults.jpg",
+        "desc": "Relax in a timeless rocking chair made of oak wood.",
+        "category": "chairs",
+        "price": "129.99"
+    },
+    {
+        "id": 6,
+        "title": "Coffee table",
+        "img": "https://i5.walmartimages.com/asr/00b41671-01e7-49d0-83bc-983435919731_3.27f015fb71ab6f0172a2cacabc9a9e49.jpeg",
+        "desc": "Glass-top table that adds elegance to your space.",
+        "category": "tables",
+        "price": "89.99"
+    },
+    {
+        "id": 7,
+        "title": "Bookshelf",
+        "img": "https://cdn.shopify.com/s/files/1/0516/3093/2164/products/Bookcase-Bookshelf-d-2_1600x.jpg?v=1614236174",
+        "desc": "Spacious bookshelf with 5 levels for storage.",
+        "category": "shelves",
+        "price": "109.99"
+    },
+    {
+        "id": 8,
+        "title": "Dining table",
+        "img": "https://i5.walmartimages.com/asr/99e969a5-d2af-4967-93a2-ae65b31cd88a.7dadddce52ed1bb351e077ff7bd04aea.jpeg",
+        "desc": "Large dining table, ideal for family gatherings.",
+        "category": "tables",
+        "price": "299.99"
+    },
+    {
+        "id": 9,
+        "title": "Office chair",
+        "img": "https://images.furnituredealer.net/img/products/coaster/color/office%20chairs_800209-b0.jpg",
+        "desc": "Ergonomic chair for long working hours.",
+        "category": "chairs",
+        "price": "119.99"
+    },
+    {
+        "id": 10,
+        "title": "Nightstand",
+        "img": "https://i5.walmartimages.com/asr/ba728969-d8d6-4638-8225-465de874f54c.d77a69b117277757bacb57f2084e3e72.jpeg",
+        "desc": "Compact wooden nightstand with drawer.",
+        "category": "tables",
+        "price": "59.99"
+    },
+    {
+        "id": 11,
+        "title": "Corner shelf",
+        "img": "https://i5.walmartimages.com/asr/ce1b6cb4-05a7-482f-aba6-cd06a0e674e8.e38cf3114304f80e82b52f9f6246e956.jpeg",
+        "desc": "Maximize your space with this smart corner shelf.",
+        "category": "shelves",
+        "price": "69.99"
+    },
+    {
+        "id": 12,
+        "title": "Recliner chair",
+        "img": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/2/9252c5851__1_.jpg",
+        "desc": "Reclining chair with adjustable backrest.",
+        "category": "chairs",
+        "price": "199.99"
+    },
+    {
+        "id": 13,
+        "title": "Minimalist chair",
+        "img": "https://www.lectory.com.au/assets/images/by-crea-jade-black-sammet_-e1523480702870-1024x1024-1.jpg",
+        "desc": "Small and stylish stool for quick seating.",
+        "category": "chairs",
+        "price": "39.99"
+    },
+    {
+        "id": 14,
+        "title": "Console table",
+        "img": "https://i5.walmartimages.com/asr/71226dfe-1672-4c4b-a49d-9fa8a85f6b10_2.a9f7bfd2227d70990a97bf390dcf3339.jpeg",
+        "desc": "Slim hallway console table with drawer.",
+        "category": "tables",
+        "price": "119.99"
+    },
+    {
+        "id": 15,
+        "title": "Wooden wardrobe",
+        "img": "https://s3.amazonaws.com/sierraimages/Images/Product/Large/7602.jpg",
+        "desc": "Spacious 2-door wardrobe with natural wood finish.",
+        "category": "storage",
+        "price": "399.99"
+    },
+    {
+        "id": 16,
+        "title": "Floating shelves",
+        "img": "https://yellowbrickhome.com/wp-content/uploads/2015/04/07-21322-post/floating-shelves-01-copy.jpg",
+        "desc": "Modern wall-mounted floating shelves.",
+        "category": "shelves",
+        "price": "49.99"
+    },
+    {
+        "id": 17,
+        "title": "Round table",
+        "img": "https://www.nathanhunterdesign.com/wp-content/uploads/2019/06/Low-45-4_3.jpg",
+        "desc": "Compact round table for small spaces.",
+        "category": "tables",
+        "price": "129.99"
+    },
+    {
+        "id": 18,
+        "title": "Leather chair",
+        "img": "https://www.vitalitywebb.com/backstore/Barcalounger/Images/Barcalounger-Phoenix-II-Chaps-Saddle-Recliner-Front.jpg",
+        "desc": "High-end leather chair with padded support.",
+        "category": "chairs",
+        "price": "249.99"
+    },
+    {
+        "id": 19,
+        "title": "TV stand",
+        "img": "https://i5.walmartimages.com/asr/002ac13e-a5a7-46f3-96c1-4eac9294aa22_1.22444ec9b359ca24e1f1188de64f58df.jpeg",
+        "desc": "Modern TV stand with storage compartments.",
+        "category": "storage",
+        "price": "179.99"
+    },
+    {
+        "id": 20,
+        "title": "Bean bag",
+        "img": "https://i5.walmartimages.com/asr/9e8aeafa-707a-4aaa-9221-9291a9845931_1.99c6a0a1af28412582ca6b3941bb8991.jpeg",
+        "desc": "Cozy and casual seating for any room.",
+        "category": "chairs",
+        "price": "59.99"
+    }
+]
