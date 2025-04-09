@@ -39,9 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nataliaPanchenko.github.io/furniture-shop-react.github.io",
+  "homepage": "https://nataliapanchenko.github.io/furniture-shop-react.github.io",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-
 }
