@@ -180,7 +180,7 @@ header .presentation::before {
 
 .full-item {
   position: fixed;
-  top: 0;
+  top: -4;
   left: 0;
   right: 0;
   bottom: 0;
@@ -194,7 +194,7 @@ header .presentation::before {
   width: 600px;
   position: relative;
   margin: 10% auto;
-  padding: 40px 30px;
+  padding: 30px;
   background: #fff;
   border-radius: 16px;
 }
